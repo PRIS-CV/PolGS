@@ -23,7 +23,7 @@
       <img src='https://img.shields.io/badge/arXiv-Paper-981E32?style=for-the-badge&Color=B31B1B' alt='arXiv PDF'>
     </a>
     <a href=''>
-      <img src='https://img.shields.io/badge/NeRSP-Project Page-5468FF?style=for-the-badge' alt='Project Page'></a>
+      <img src='https://img.shields.io/badge/PolGS-Project Page-5468FF?style=for-the-badge' alt='Project Page'></a>
 </p>
 <div align="center">
 </div>
