@@ -135,7 +135,7 @@ bash run.bash
 We gratefully acknowledge the following open-source projects that contributed to this work:
 
 - [Gaussian Surfels](https://github.com/turandai/gaussian_surfels) - For foundational Gaussian surfels implementation
-- [3DGS-DR](https://github.com/jzhangbs/3DGS-DR) - For 3D Gaussian Splatting with deferred rendering
+- [3DGS-DR](https://github.com/gapszju/3DGS-DR) - For 3D Gaussian Splatting with deferred rendering
 
 
 ## Bibtex
