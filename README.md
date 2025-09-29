@@ -70,7 +70,7 @@ Please install PyTorch3D following the [official installation guide](https://git
 
 ## Data Preparation
 
-We evaluate our method on subsets of RMVP3D and SMVP3D from [NeRSP](https://github.com/NeRSP/NeRSP), [PANDORA](https://github.com/YoYo000/BlendedMVS), and [PISR](https://github.com/PRIS-CV/PISR) datasets.
+We evaluate our method on subsets of RMVP3D and SMVP3D from [NeRSP](https://github.com/PRIS-CV/NeRSP), [PANDORA](https://github.com/akshatdave/pandora), and [PISR](https://github.com/GCChen97/PISR) datasets.
 
 ### Dataset Configuration
 - **SMVP3D**: 36 views (12×3 configuration) for training and testing
